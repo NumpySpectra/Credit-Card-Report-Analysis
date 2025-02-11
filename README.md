@@ -1,5 +1,3 @@
-# Credit_Card_Financial_Dashboard
-Credit Card Transaction and Customer Dashboard using Power BI
 # Credit Card Report Analysis
 
 ## 📌 Project Overview
